@@ -1,0 +1,25 @@
+usuarioId,serieId,Reaccion,fecha
+1,2,Me gusta,01-02-2024
+1,3,Me encanta,02-02-2024
+1,1,No me gusta,03-02-2024
+2,4,Me encanta,04-02-2024
+2,6,Me gusta,05-02-2024
+2,5,No me gusta,06-02-2024
+3,7,No me gusta,07-02-2024
+3,8,Me encanta,08-02-2024
+3,9,Me encanta,09-02-2024
+4,2,Me gusta,10-02-2024
+4,10,No me gusta,11-02-2024
+4,5,Me gusta,12-02-2024
+5,3,No me gusta,13-02-2024
+5,4,Me encanta,14-02-2024
+5,2,Me encanta,15-02-2024
+6,6,Me gusta,16-02-2024
+6,1,Me gusta,17-02-2024
+7,8,Me gusta,18-02-2024
+8,5,No me gusta,19-02-2024
+8,10,No me gusta,20-02-2024
+8,1,Me encanta,21-02-2024
+9,6,Me encanta,22-02-2024
+10,3,Me gusta,23-02-2024
+10,4,Me gusta,24-02-2024

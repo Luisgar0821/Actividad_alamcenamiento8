@@ -1,0 +1,25 @@
+usuarioId,episodioId,Reaccion,fecha
+1,6,Me encanta,31-01-2024
+1,7,Me gusta,01-02-2024
+1,8,Me encanta,02-02-2024
+2,1,No me gusta,03-02-2024
+2,2,Me gusta,04-02-2024
+2,3,No me gusta,05-02-2024
+3,4,No me gusta,06-02-2024
+3,5,Me gusta,07-02-2024
+3,6,Me encanta,08-02-2024
+4,11,Me encanta,09-02-2024
+4,12,Me encanta,10-02-2024
+4,14,Me gusta,11-02-2024
+5,13,Me gusta,12-02-2024
+5,16,Me gusta,13-02-2024
+5,17,No me gusta,14-02-2024
+6,20,Me gusta,15-02-2024
+6,21,Me encanta,16-02-2024
+7,19,Me encanta,17-02-2024
+7,18,Me gusta,18-02-2024
+7,22,No me gusta,19-02-2024
+8,29,No me gusta,20-02-2024
+9,30,Me gusta,21-02-2024
+10,28,Me gusta,22-02-2024
+10,25,Me encanta,23-02-2024
